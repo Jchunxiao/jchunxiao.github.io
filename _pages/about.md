@@ -9,7 +9,7 @@ profile:
   image_circular: false
   more_info: >
     <p>Ph.D. Candidate</p>
-    <p>Department of Agricultural & Applied Economics</p>
+    <p>Agricultural & Applied Economics</p>
     <p>University of Wisconsin–Madison</p>
 
 selected_papers: false
@@ -23,6 +23,10 @@ latest_posts:
 ---
 
 <style>
+.profile {
+  margin-right: 3rem !important;
+}
+
 .profile img {
   max-width: 280px !important;
   width: 280px !important;
@@ -36,6 +40,10 @@ latest_posts:
 }
 
 @media (max-width: 768px) {
+  .profile {
+    margin-right: 0 !important;
+  }
+
   .profile img {
     max-width: 220px !important;
     width: 220px !important;
