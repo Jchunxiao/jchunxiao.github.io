@@ -6,30 +6,37 @@ permalink: /
 profile:
   align: left
   image: photo.png
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p>Ph.D. Candidate</p>
     <p>Department of Agricultural & Applied Economics</p>
     <p>University of Wisconsin–Madison</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
   enabled: false
-  scrollable: true
-  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true
-  limit: 3
-
 ---
 
-I am a Ph.D. candidate in the Department of Agricultural & Applied Economics at the University of Wisconsin–Madison.
+I am a Ph.D. candidate in the Department of Agricultural & Applied Economics at the University of Wisconsin–Madison. My research focuses on how climate change, market frictions, and institutions shape labor allocation and structural transformation in developing countries, with a particular emphasis on Sub-Saharan Africa.
 
-My research lies at the intersection of development economics, structural transformation, climate economics, and labor economics, with a focus on Sub-Saharan Africa. I combine household survey data, satellite remote sensing, and machine learning methods to study labor allocation, productivity, and economic development.
+My research lies at the intersection of development economics, agricultural economics, labor economics, and climate economics. I combine household survey data, satellite remote sensing, geospatial analysis, and structural modeling to study how climate, institutions, and market frictions shape labor allocation and economic development in low-income countries.
 
-My current research studies how climate-driven agricultural productivity shocks affect labor allocation across agriculture, non-agriculture, and idle work in Sub-Saharan Africa.
+## Research Interests
+
+- Development Economics
+- Agricultural Economics
+- Structural Transformation
+- Climate Economics
+- Labor Economics
+- Applied Econometrics
+
+## Current Research
+
+My current research examines how climate-induced agricultural productivity shocks affect structural transformation and labor allocation in Sub-Saharan Africa. My job market paper investigates how subsistence constraints and labor demand jointly shape workers' transitions across agriculture, non-agriculture, and labor market inactivity.
+
 
