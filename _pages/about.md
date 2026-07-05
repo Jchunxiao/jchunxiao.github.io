@@ -24,6 +24,8 @@ latest_posts:
 
 <style>
 .profile {
+  flex: 0 0 34% !important;
+  max-width: 34% !important;
   margin-right: 3rem !important;
 }
 
@@ -41,6 +43,8 @@ latest_posts:
 
 @media (max-width: 768px) {
   .profile {
+    flex: none !important;
+    max-width: 100% !important;
     margin-right: 0 !important;
   }
 
@@ -58,12 +62,7 @@ My research lies at the intersection of development economics, agricultural econ
 
 ## Research Interests
 
-- Development Economics
-- Agricultural Economics
-- Structural Transformation
-- Climate Economics
-- Labor Economics
-- Applied Econometrics
+Development Economics • Agricultural Economics • Structural Transformation • Climate Economics • Labor Economics • Applied Econometrics
 
 ## Current Research
 
