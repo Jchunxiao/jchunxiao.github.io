@@ -63,12 +63,6 @@ My research lies at the intersection of development economics, agricultural econ
 
 Outside of research, I enjoy gardening and growing vegetables. Moving between academic research and hands-on cultivation reminds me how closely climate, agricultural production, and economic decision-making are connected. 
 
-## Research Interests
 
-Development Economics • Agricultural Economics • Structural Transformation • Climate Economics • Labor Economics • Applied Econometrics
-
-## Current Research
-
-My current research examines how climate-induced agricultural productivity shocks affect structural transformation and labor allocation in Sub-Saharan Africa. My job market paper investigates how subsistence constraints and labor demand jointly shape workers' transitions across agriculture, non-agriculture, and labor market inactivity.
 
 
