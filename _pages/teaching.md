@@ -1,15 +1,47 @@
 ---
 layout: page
+title: Teaching
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+<style>
+.course-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-top: 1.2rem;
+  margin-bottom: 0.2rem;
+}
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+.course-note {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 0.8rem;
+}
+</style>
 
-{% include courses.liquid %}
+## University of Wisconsin–Madison
+
+<p class="course-title">
+The Growth and Development of Nations in the Global Economy (AAE 374)
+</p>
+
+<p class="course-note">
+Teaching Assistant • Spring 2024 • Instructor: Professor Vladimir Gimpelson
+</p>
+
+An undergraduate course in development economics examining the determinants of long-run economic growth and development in the global economy. This offering emphasized labor markets, migration, inequality, poverty, institutions, culture, and globalization, while integrating economic theory with empirical evidence and data-driven analysis.
+
+---
+
+<p class="course-title">
+The Growth and Development of Nations in the Global Economy (AAE 374)
+</p>
+
+<p class="course-note">
+Teaching Assistant • Spring 2023 • Instructor: Professor Jeremy Foltz
+</p>
+
+An undergraduate course in development economics focused on international trade, comparative advantage, globalization, and economic growth. The course emphasized classical and modern trade theory, economic growth models, and the interaction between trade and development through both theoretical analysis and empirical applications. 
