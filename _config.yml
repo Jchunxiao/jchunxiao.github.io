@@ -2,19 +2,27 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Chunxiao Jing | Economist
 first_name: Chunxiao
 middle_name: 
 last_name: Jing
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+ Chunxiao Jing is a Ph.D. candidate in Agricultural and Applied Economics at the University of Wisconsin–Madison. Her research focuses on development economics, environmental economics, structural transformation, climate change, and applied econometrics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: 
+University of Wisconsin-Madison,
+Chunxiao Jing,
+development economics,
+climate change,
+structural transformation,
+agricultural economics,
+applied econometrics,
+environmental economics,
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -32,7 +40,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -341,12 +349,12 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Jing]
+  first_name: [Chunxiao]
 
   style: apa
   locale: en
-
+  
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
