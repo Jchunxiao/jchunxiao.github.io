@@ -115,7 +115,7 @@ theory, economic growth models, and empirical applications.
 
 <p>
 <span class="teaching-label">Class Size:</span>
-22 students
+38 students
 </p>
 
 <p>
