@@ -1,8 +1,9 @@
 ---
----
+layout: page
+title: In the Field
 permalink: /fieldwork/
-title: "Fieldwork"
-author_profile: true
+nav: true
+nav_order: 5
 ---
 
 # Fieldwork in Ethiopia
