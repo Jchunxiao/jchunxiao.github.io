@@ -132,26 +132,42 @@ What struck me equally, however, was how farmers responded. Despite these setbac
 
 Fieldwork also gave me the opportunity to experience Ethiopia through its food and everyday traditions. Many of the foods I encountered were closely connected to the crops and livelihoods I was learning about in the field—from coffee and teff to enset and other locally grown crops. Sharing meals and coffee with local colleagues and friends was also an important part of getting to know the communities where I worked.
 
-<div class="fieldwork-grid">
+<div style="display: flex; gap: 18px; align-items: flex-start; margin-top: 25px;">
 
-  <div class="fieldwork-item">
-    <img src="/assets/img/ETH coffee.jpeg" alt="Ethiopian coffee">
-    <p><em>Ethiopian coffee — an essential part of everyday life and hospitality.</em></p>
+  <div style="width: 25%;">
+    <img src="/assets/img/ETH coffee.jpeg"
+         alt="Ethiopian coffee"
+         style="width: 100%; height: 300px; object-fit: cover; border-radius: 4px;">
+    <p style="font-size: 0.85em; text-align: center; margin-top: 6px;">
+      <em>Ethiopian coffee.</em>
+    </p>
   </div>
 
-  <div class="fieldwork-item">
-    <img src="/assets/img/Injera and fish.jpeg" alt="Injera and Ethiopian dishes">
-    <p><em>Injera served with fish and a variety of local dishes.</em></p>
+  <div style="width: 25%;">
+    <img src="/assets/img/Injera and fish.jpeg"
+         alt="Injera and Ethiopian dishes"
+         style="width: 100%; height: 300px; object-fit: cover; border-radius: 4px;">
+    <p style="font-size: 0.85em; text-align: center; margin-top: 6px;">
+      <em>Injera served with fish and a variety of local dishes.</em>
+    </p>
   </div>
 
-  <div class="fieldwork-item">
-    <img src="/assets/img/Enset powder.jpeg" alt="Traditional foods made from enset and root crops">
-    <p><em>Traditional foods made from enset and other locally grown crops.</em></p>
+  <div style="width: 25%;">
+    <img src="/assets/img/Enset powder.jpeg"
+         alt="Traditional foods made from enset and root crops"
+         style="width: 100%; height: 300px; object-fit: cover; border-radius: 4px;">
+    <p style="font-size: 0.85em; text-align: center; margin-top: 6px;">
+      <em>Traditional foods made from enset and other locally grown crops.</em>
+    </p>
   </div>
 
-  <div class="fieldwork-item">
-    <img src="/assets/img/Fish from Hawass Lake.jpeg" alt="Fish from Lake Hawassa">
-    <p><em>Fish from Lake Hawassa, one of the memorable local foods I tried during fieldwork.</em></p>
+  <div style="width: 25%;">
+    <img src="/assets/img/Fish from Hawass Lake.jpeg"
+         alt="Fish from Lake Hawassa"
+         style="width: 100%; height: 300px; object-fit: cover; border-radius: 4px;">
+    <p style="font-size: 0.85em; text-align: center; margin-top: 6px;">
+      <em>Fish from Lake Hawassa.</em>
+    </p>
   </div>
 
 </div>
