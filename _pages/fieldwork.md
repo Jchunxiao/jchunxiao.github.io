@@ -135,22 +135,22 @@ Fieldwork also gave me the opportunity to experience Ethiopia through its food a
 <div class="fieldwork-grid">
 
   <div class="fieldwork-item">
-    <img src="/assets/img/fieldwork/ETH coffee.jpeg" alt="Ethiopian coffee">
+    <img src="/assets/img/ETH coffee.jpeg" alt="Ethiopian coffee">
     <p><em>Ethiopian coffee — an essential part of everyday life and hospitality.</em></p>
   </div>
 
   <div class="fieldwork-item">
-    <img src="/assets/img/fieldwork/Injera and fish.jpeg" alt="Injera and Ethiopian dishes">
+    <img src="/assets/img/Injera and fish.jpeg" alt="Injera and Ethiopian dishes">
     <p><em>Injera served with fish and a variety of local dishes.</em></p>
   </div>
 
   <div class="fieldwork-item">
-    <img src="/assets/img/fieldwork/Enset powder.jpeg" alt="Traditional foods made from enset and root crops">
+    <img src="/assets/img/Enset powder.jpeg" alt="Traditional foods made from enset and root crops">
     <p><em>Traditional foods made from enset and other locally grown crops.</em></p>
   </div>
 
   <div class="fieldwork-item">
-    <img src="/assets/img/fieldwork/Fish from Hawass Lake.jpeg" alt="Fish from Lake Hawassa">
+    <img src="/assets/img/Fish from Hawass Lake.jpeg" alt="Fish from Lake Hawassa">
     <p><em>Fish from Lake Hawassa, one of the memorable local foods I tried during fieldwork.</em></p>
   </div>
 
