@@ -32,7 +32,7 @@ Weather Shocks, Labor Reallocation, and Structural Transformation: Micro Evidenc
 
 Structural transformation, which is the movement of labor from agriculture to more productive non-agricultural activities, is a key driver of economic development. Yet labor released from agriculture does not always transition into productive non-agricultural employment. This paper develops a structural framework that decomposes structural transformation into three sequential stages: labor release, labor reallocation, and labor absorption, allowing the roles of subsistence constraints, mobility barriers, land transferability, and labor absorption capacity to be separately identified. Using household panel data from the World Bank Living Standards Measurement Study (LSMS) for Niger, Malawi, and Ethiopia, combined with high-resolution climate and geospatial data, I first provide reduced-form evidence on how weather-induced agricultural productivity shocks interact with these constraints to shape household labor allocation. I then estimate the structural model using the simulated method of moments and conduct counterfactual policy analysis. The results reveal substantial heterogeneity in the mechanisms governing structural transformation. Subsistence constraints are the primary barrier in Niger and Malawi, whereas labor reallocation and labor absorption constrain structural transformation in Ethiopia. By identifying the binding constraints at each stage of structural transformation, the proposed framework provides a unified approach for understanding labor allocation and evaluating development policies.
 
-**Paper:** [Draft (PDF)](/assets/pdf/JMP_draft0.pdf)
+**Paper:** [Draft (PDF)](/assets/pdf/JMP_draft1.pdf)
 
 ---
 
