@@ -13,7 +13,7 @@ nav_order: 4
 </div>
 
 <iframe
-  src="/assets/pdf/CV_Chunxiao_Jing_ver0.pdf"
+  src="/assets/pdf/CV_Chunxiao_Jing_ver1.pdf"
   width="100%"
   height="1000px"
   style="border:1px solid #ddd;">
