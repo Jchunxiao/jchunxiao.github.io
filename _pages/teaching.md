@@ -1,17 +1,12 @@
 ---
 layout: page
 title: Teaching
-permalink: /Teaching/
+permalink: /teaching/
 nav: true
 nav_order: 3
 ---
 
 <style>
-.teaching-intro {
-  font-size: 1.35rem;
-  margin-bottom: 1rem;
-}
-
 .course-entry {
   padding: 1.15rem 0;
   border-top: 1px solid #ddd;
@@ -49,6 +44,13 @@ nav_order: 3
   margin-bottom: 0.45rem;
 }
 
+.teaching-section-title {
+  font-size: 1.35rem;
+  font-weight: 500;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
 @media (max-width: 576px) {
   .course-heading {
     line-height: 1.45;
@@ -56,7 +58,8 @@ nav_order: 3
 }
 </style>
 
-<p class="teaching-intro">Courses:</p>
+
+<h2 class="teaching-section-title">Courses</h2>
 
 <div class="course-entry">
 
@@ -81,7 +84,7 @@ levels of preparation in economics.
 
 <p>
 <span class="teaching-label">Class Size:</span>
-96 Students
+96 students
 </p>
 
 </div>
@@ -120,18 +123,38 @@ connect economic theory with real-world development questions.
 </p>
 
 </div>
+
+
+<h2 class="teaching-section-title">Teaching Statement</h2>
+
+<p>
+My teaching emphasizes helping students develop the habit of thinking like
+economists by connecting economic theory to real-world questions, encouraging
+active discussion, and building the confidence to apply economic reasoning
+independently.
+</p>
+
+<p>
+<a href="/assets/pdf/Teaching%20Statement_Jing.pdf"
+   target="_blank">
+  <strong>View Teaching Statement (PDF)</strong>
+</a>
+</p>
+
+
+<h2 class="teaching-section-title">Selected Student Comments</h2>
+
 <div class="student-comments">
 
-<p class="teaching-intro">Selected Student Comments:</span></p>
-
 <ol type="a">
+
   <li>
     “Chunxiao was an amazing TA who worked hard to make sure that all students
     understood the course content. During discussion sections, she used
     examples and explained things multiple times whenever students had
     questions.”
   </li>
-  
+
   <li>
     “I really like her teaching style and how she sums everything up.
     Chunxiao does a good job making sure that the topic and goal are clear.
@@ -154,8 +177,8 @@ connect economic theory with real-world development questions.
     “She was very responsive over email and answered any questions I asked
     very quickly.”
   </li>
+
 </ol>
 
 </div>
 
-</div>
