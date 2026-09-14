@@ -61,73 +61,77 @@ nav_order: 3
 <div class="course-entry">
 
 <p class="course-heading">
-<strong>Teaching Assistant — AAE 374: The Growth and Development of Nations in the Global Economy</strong>,
-University of Wisconsin–Madison, Spring 2024
+<strong>Teaching Assistant — ECON 101: Principles of Microeconomics</strong>,
+University of Wisconsin–Madison, Fall 2026
 </p>
 
 <p>
 <span class="teaching-label">Instructor:</span>
-Professor Vladimir Gimpelson
+Professor Steve Trost
 </p>
 
 <p>
 <span class="teaching-label">Description:</span>
-This undergraduate development economics course examines the determinants
-of long-run economic growth and development in the global economy. I led
-discussion sections, held office hours, and helped students connect economic
-theory with empirical evidence. Topics included labor markets, migration,
-inequality, poverty, institutions, culture, globalization, and economic
-development.
+This introductory undergraduate course introduces students to the core principles
+of microeconomics and their applications to real-world economic decisions. I lead
+four discussion sections, reinforce concepts introduced in lecture, guide students
+through problem solving, and hold office hours to support students with diverse
+levels of preparation in economics.
 </p>
 
 <p>
 <span class="teaching-label">Class Size:</span>
-22 students
-</p>
-
-<p>
-<span class="teaching-label">Overall End-of-Term Evaluation:</span>
-4.0/5
+96 Students
 </p>
 
 </div>
+
 
 <div class="course-entry">
 
 <p class="course-heading">
 <strong>Teaching Assistant — AAE 374: The Growth and Development of Nations in the Global Economy</strong>,
-University of Wisconsin–Madison, Spring 2023
+University of Wisconsin–Madison, Spring 2023 & Spring 2024
 </p>
 
 <p>
-<span class="teaching-label">Instructor:</span>
-Professor Jeremy Foltz
+<span class="teaching-label">Instructors:</span>
+Professor Jeremy Foltz (Spring 2023); Professor Vladimir Gimpelson (Spring 2024)
 </p>
 
 <p>
 <span class="teaching-label">Description:</span>
-This undergraduate development economics course focused on international
-trade, comparative advantage, globalization, and economic growth. I led
-discussion sections, prepared discussion handouts, held office hours, and
-answered students’ questions. The course combined classical and modern trade
-theory, economic growth models, and empirical applications.
+This undergraduate development economics course examines economic growth and
+development in the global economy, with topics including international trade,
+comparative advantage, globalization, labor markets, migration, inequality,
+poverty, institutions, and culture. Across both semesters, I led discussion
+sections, prepared discussion materials, held office hours, and helped students
+connect economic theory with real-world development questions.
 </p>
 
 <p>
 <span class="teaching-label">Class Size:</span>
-38 students
+38 students (Spring 2023); 22 students (Spring 2024)
 </p>
 
 <p>
 <span class="teaching-label">Overall End-of-Term Evaluation:</span>
-4.3/5
+4.3/5 (Spring 2023); 4.0/5 (Spring 2024)
 </p>
 
+</div>
 <div class="student-comments">
 
-<p><span class="teaching-label">Selected Student Comments:</span></p>
+<p class="teaching-intro">Selected Student Comments:</span></p>
 
 <ol type="a">
+  <li>
+    “Chunxiao was an amazing TA who worked hard to make sure that all students
+    understood the course content. During discussion sections, she used
+    examples and explained things multiple times whenever students had
+    questions.”
+  </li>
+  
   <li>
     “I really like her teaching style and how she sums everything up.
     Chunxiao does a good job making sure that the topic and goal are clear.
@@ -144,13 +148,6 @@ theory, economic growth models, and empirical applications.
   <li>
     “Chunxiao is always open to meeting and is very helpful during TA office
     hours.”
-  </li>
-
-  <li>
-    “Chunxiao was an amazing TA who worked hard to make sure that all students
-    understood the course content. During discussion sections, she used
-    examples and explained things multiple times whenever students had
-    questions.”
   </li>
 
   <li>
