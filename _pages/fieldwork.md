@@ -151,7 +151,7 @@ Fieldwork also gave me the opportunity to experience Ethiopia through its food a
   </div>
 
   <div style="width: 25%;">
-    <img src="/assets/img/Enset powder Smal.jpeg"
+    <img src="/assets/img/Enset powder Small.jpeg"
          alt="Traditional foods made from enset and root crops"
          style="width: 100%; height: 300px; object-fit: cover; border-radius: 4px;">
     <p style="font-size: 0.85em; text-align: center; margin-top: 6px;">
