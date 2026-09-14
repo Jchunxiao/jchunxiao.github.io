@@ -78,7 +78,7 @@ What struck me, however, was how farmers responded to the shocks. Despite these 
          alt="Healthy Enset in Ethiopia"
          style="width: 100%; height: 300px; object-fit: cover; border-radius: 4px;">
     <p style="font-size: 0.85em; text-align: center; margin-top: 6px;">
-      <em>For comparison, a healthy enset plant is green and vigorous, with strong, upright leaves. </em>
+      <em>For comparison, a healthy enset plant is green and vigorous, with strong, upright leaves. As the plant matures, the outer leaves naturally turn yellow. In contrast, a diseased enset plant can show yellowing in the inner leaves first. </em>
     </p>
   </div>
 
