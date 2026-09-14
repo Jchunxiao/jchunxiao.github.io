@@ -7,7 +7,7 @@ nav_order: 4
 ---
 
 <div style="margin-bottom:1rem;">
-  <a class="btn btn-primary" href="/assets/pdf/CV_Chunxiao_Jing_ver0.pdf" target="_blank">
+  <a class="btn btn-primary" href="/assets/pdf/CV_Chunxiao_Jing_ver1.pdf" target="_blank">
     Download CV (PDF)
   </a>
 </div>
