@@ -55,7 +55,7 @@ What struck me, however, was how farmers responded to the shocks. Despite these 
 
 <div style="display: flex; gap: 18px; align-items: flex-start; margin-top: 25px;">
 
-  <div style="width: 33%;">
+  <div style="width: 25%;">
     <img src="/assets/img/dried corn Small.jpeg"
          alt="Maize in Ethiopia"
          style="width: 100%; height: 300px; object-fit: cover; border-radius: 4px;">
@@ -64,7 +64,7 @@ What struck me, however, was how farmers responded to the shocks. Despite these 
     </p>
   </div>
 
-  <div style="width: 33%;">
+  <div style="width: 25%;">
     <img src="/assets/img/diseased enset Small.jpeg"
          alt="Enset in Ethiopia"
          style="width: 100%; height: 300px; object-fit: cover; border-radius: 4px;">
@@ -73,7 +73,16 @@ What struck me, however, was how farmers responded to the shocks. Despite these 
     </p>
   </div>
 
-  <div style="width: 33%;">
+  <div style="width: 25%;">
+    <img src="/assets/img/healthy enset Small.jpeg"
+         alt="Healthy Enset in Ethiopia"
+         style="width: 100%; height: 300px; object-fit: cover; border-radius: 4px;">
+    <p style="font-size: 0.85em; text-align: center; margin-top: 6px;">
+      <em>For comparison, a healthy enset plant is green and vigorous, with strong, upright leaves. </em>
+    </p>
+  </div>
+
+  <div style="width: 25%;">
     <img src="/assets/img/coffee Small.jpeg"
          alt="Coffee in Ethiopia"
          style="width: 100%; height: 300px; object-fit: cover; border-radius: 4px;">
