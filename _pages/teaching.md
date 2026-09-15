@@ -8,8 +8,7 @@ nav_order: 3
 
 <style>
 .course-entry {
-  padding: 1.15rem 0;
-  border-top: 1px solid #ddd;
+  padding: 0.8rem 0;
   line-height: 1.55;
 }
 
@@ -44,13 +43,6 @@ nav_order: 3
   margin-bottom: 0.45rem;
 }
 
-.teaching-section-title {
-  font-size: 1.35rem;
-  font-weight: 500;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-}
-
 @media (max-width: 576px) {
   .course-heading {
     line-height: 1.45;
@@ -59,7 +51,7 @@ nav_order: 3
 </style>
 
 
-<h2 class="teaching-section-title">Courses</h2>
+## Courses
 
 <div class="course-entry">
 
@@ -125,24 +117,21 @@ connect economic theory with real-world development questions.
 </div>
 
 
-<h2 class="teaching-section-title">Teaching Statement</h2>
+---
 
-<p>
+## Teaching Statement
+
 My teaching emphasizes helping students develop the habit of thinking like
 economists by connecting economic theory to real-world questions, encouraging
 active discussion, and building the confidence to apply economic reasoning
 independently.
-</p>
 
-<p>
-<a href="/assets/pdf/Teaching%20Statement_Jing.pdf"
-   target="_blank">
-  <strong>View Teaching Statement (PDF)</strong>
-</a>
-</p>
+**[View Teaching Statement (PDF)](/assets/pdf/Teaching%20Statement_Jing.pdf)**
 
 
-<h2 class="teaching-section-title">Selected Student Comments</h2>
+---
+
+## Selected Student Comments
 
 <div class="student-comments">
 
