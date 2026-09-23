@@ -62,7 +62,7 @@ University of Wisconsin–Madison, Fall 2026
 
 <p>
 <span class="teaching-label">Instructor:</span>
-Professor Steve Trost
+Dr Steve Trost
 </p>
 
 <p>
