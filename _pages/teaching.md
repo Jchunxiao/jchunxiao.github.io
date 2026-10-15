@@ -111,7 +111,7 @@ connect economic theory with real-world development questions.
 
 <p>
 <span class="teaching-label">Overall End-of-Term Evaluation:</span>
-4.3/5 (Spring 2023); 4.0/5 (Spring 2024)
+4.75/5 (Spring 2023); 4.5/5 (Spring 2024)
 </p>
 
 </div>
