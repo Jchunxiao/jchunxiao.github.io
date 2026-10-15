@@ -57,9 +57,9 @@ latest_posts:
 </style>
 
 
-I am a Ph.D. candidate in the Department of Agricultural & Applied Economics at the University of Wisconsin–Madison. My research focuses on how climate change, market frictions, and institutions shape labor allocation and structural transformation in developing countries, with a particular emphasis on Sub-Saharan Africa.
+I am a Ph.D. candidate in the Department of Agricultural & Applied Economics at the University of Wisconsin–Madison. My research uses microeconomic foundations to address broader questions in economic development. In particular, I study how households and firms respond to climate change, market frictions, and institutions, and how these responses influence labor allocation, productivity growth, and structural transformation in developing countries, particularly in Sub-Saharan Africa.
 
-My research lies at the intersection of development economics, agricultural economics, labor economics, and climate economics. I combine household survey data, firm-level data, satellite remote sensing, geospatial analysis, and structural modeling to understand how households and firms respond to changing environmental and economic conditions, and how those responses shape labor allocation, productivity growth, conflict, and long-run economic development.
+My research lies at the intersection of development economics, agricultural economics, labor economics, and climate economics. I combine household and firm-level data with satellite remote sensing, geospatial analysis, machine learning, and structural modeling to investigate the mechanisms underlying structural transformation, productivity growth, and the relationship between climate change and conflict.
 
 Outside of academia, I enjoy swimming, sailing, cooking, and gardening. Gardening, in particular, reminds me how closely climate, agricultural production, and economic decision-making are intertwined, reinforcing the real-world questions that motivate my research.
 
